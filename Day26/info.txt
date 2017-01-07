@@ -1,0 +1,5 @@
+//Non static Inner Class
+// Member Inner class
+// Local INner Class
+// Anon INner class
+
